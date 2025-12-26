@@ -17,17 +17,25 @@ A customizable **CNC Macro Pad** designed to speed up CNC workflows by providing
 
 ## 📸 Preview
 
-> Add photos or renders of your CNC Macro Pad here.
+
+<img width="555" height="661" alt="image" src="https://github.com/user-attachments/assets/4c029c70-8ee4-4fb0-b834-8d31cc44fd87" />
+
+<img width="1280" height="887" alt="image" src="https://github.com/user-attachments/assets/1fc6262e-3f2d-47ea-a92e-d9da966b6381" />
+
+<img width="1195" height="787" alt="image" src="https://github.com/user-attachments/assets/c7f149a9-e002-4bf6-b497-22c79d2bd792" />
+
 
 
 ---
 
 ## 🧰 Hardware
 
-- **Microcontroller:** seeed studio xiao rp2040 
+- **Microcontroller:** seeed studio xiao rp2040
 - **Keys:** 9  
-- **Switches:** Tactile  
-- **Connection:** USB  
+- **Switches:** Tactile mx-style switches
+- **screws** M3x16mm screws
+- **Heatset insets** M3x5mx4mm
+-  
 
 
 ---
@@ -37,6 +45,6 @@ A customizable **CNC Macro Pad** designed to speed up CNC workflows by providing
 The macro pad firmware supports custom keymaps and CNC-specific macros.
 
 Built using:
-- **QMK / Arduino / CircuitPython** *(choose what applies)*
+- **
 
 
