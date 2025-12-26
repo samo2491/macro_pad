@@ -24,14 +24,11 @@ A customizable **CNC Macro Pad** designed to speed up CNC workflows by providing
 
 ## 🧰 Hardware
 
-- **Microcontroller:** Arduino Pro Micro / RP2040 / STM32 *(edit as needed)*  
-- **Keys:** 6 / 9 / 12 / 16 *(configurable)*  
-- **Switches:** Mechanical / Tactile / Low-profile  
+- **Microcontroller:** seeed studio xiao rp2040 
+- **Keys:** 9  
+- **Switches:** Tactile  
 - **Connection:** USB  
-- **Optional Add-ons:**
-  - Rotary encoder
-  - OLED display
-  - RGB LEDs
+
 
 ---
 
@@ -42,7 +39,4 @@ The macro pad firmware supports custom keymaps and CNC-specific macros.
 Built using:
 - **QMK / Arduino / CircuitPython** *(choose what applies)*
 
-### Flashing Firmware (Example)
 
-```bash
-qmk flash -kb cnc_macropad -km default
