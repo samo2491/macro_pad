@@ -40,11 +40,6 @@ A customizable **CNC Macro Pad** designed to speed up CNC workflows by providing
 
 ---
 
-## 💾 Firmware
 
-The macro pad firmware supports custom keymaps and CNC-specific macros.
-
-Built using:
-- **
 
 
